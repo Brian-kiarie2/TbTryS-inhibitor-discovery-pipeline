@@ -1,0 +1,8 @@
+receptor = 2VPS_cleaned.pdbqt
+exhaustiveness  = 8
+center_x = 1.81866898936
+center_y = 5.70843519251
+center_z = 24.6885314273
+size_x = 60.9547401224
+size_y = 64.4872558156
+size_z = 55.2914239022

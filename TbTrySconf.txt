@@ -1,0 +1,8 @@
+receptor = AF-Q8IEX1-F1-model_v6_cleaned.pdbqt
+exhaustiveness  = 8
+center_x = -5.85871192778
+center_y = 1.81236041915
+center_z = -6.84198816333
+size_x = 83.9030873895
+size_y = 65.214048119
+size_z = 86.8981691698

@@ -1,0 +1,11 @@
+GNN VALIDATION METRICS - VERIFIED FROM CHECKPOINT
+============================================================
+Checkpoint: gnn_trained_9features.pt
+Validation set size (n): 840
+R2: 0.644651
+RMSE: 0.743232
+MAE: 0.571868
+Pearson_r: 0.807166
+Pearson_p: 0.000000e+00
+Spearman_r: 0.791751
+Spearman_p: 1.416506e-181
